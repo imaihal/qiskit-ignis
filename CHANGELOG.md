@@ -19,11 +19,14 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/).
 
 ### Added
 
+- Purity RB
 - Interleaved RB
 - Repetition Code for Verification
 
 ### Changed
 
+- Add multiple results to measurement mitigation
+- Fixed bug in RB fit error
 - Updates for Terra Qubit class
 - Added the ability to add arbitrary seeds to RB (not just in order)
 - Fix bug in the characterization fitter when selecting a qubit index to fit
